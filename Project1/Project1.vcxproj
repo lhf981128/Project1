@@ -125,7 +125,14 @@
   <ItemGroup>
     <ClCompile Include="1.c" />
     <ClCompile Include="ClassAddress.cpp" />
+    <ClCompile Include="CodeTest.cpp" />
+    <ClCompile Include="CodeTest2.cpp" />
+    <ClCompile Include="CodeTest3.cpp" />
+    <ClCompile Include="InterViewTest.cpp" />
+    <ClCompile Include="InterViewText2.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MeiTuanCode1.cpp" />
+    <ClCompile Include="MeiTuanCode2.cpp" />
     <ClCompile Include="PointerAndArray.cpp" />
     <ClCompile Include="stlTest.cpp" />
   </ItemGroup>
